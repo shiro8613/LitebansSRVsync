@@ -1,0 +1,7 @@
+name: Litebanssrvsync
+version: '${project.version}'
+main: com.github.shiro8613.litebanssrvsync.Litebanssrvsync
+api-version: 1.18
+authors: [ shiro8613 ]
+description: DiscordSRVでプレーヤーがBANされた時、LitebansにもそのBANを同期させるプラグイン
+softdepend: [LiteBans, DiscordSRV]
