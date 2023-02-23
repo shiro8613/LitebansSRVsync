@@ -1,0 +1,2 @@
+# LitebansSRVsync
+DiscordSRVでのBanをLitebansに同期させるプラグイン
